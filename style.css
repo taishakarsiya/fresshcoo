@@ -1,0 +1,22 @@
+h1 {
+    color:  rgb(209, 86, 86);
+   }
+   .header{
+   display:flex;
+   background-color: black;
+   justify-content: space-evenly;
+   
+   }
+   .menu{
+display:flex;
+justify-content: space-between;
+background-color: #000000;
+padding: 15px;
+font-size: 20px;
+font-weight: 400;
+    color: #ffffff;    
+   }
+   body{
+   margin : 0px;
+   background-color:#000000 ;    
+   }
